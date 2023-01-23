@@ -1,8 +1,4 @@
-<h1 align="center">Find Best Box</h1>
-
-<span style="font-size: 90px;">
-<p align="center">📦</p>
-</span>
+<h1 align="center">Find Best Box 📦</h1>
 
 <br>
 
