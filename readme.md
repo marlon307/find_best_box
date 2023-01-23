@@ -1,16 +1,25 @@
 <h1 align="center">Find Best Box</h1>
-<h2 align="center">📦</h2>
 
+<p align="center" style="font-size: 90px;">📦</p>
 
+<br>
 
 Script para encontrar as melhores caixas focando diminuir o desperdício de espaço vazio e a quantidade de caixas a serem feitas
 
 <br>
 <br>
 
-<h3>Exemplo</h3>
+A função espera dois parâmetro, um volume total e outro uma lista que é o volume máximo suportado por uma caixa
+
+```python
+
+cube_volumes(total_volume: float, boxes: list[int])
 
 ```
+
+<h3>Exemplo</h3>
+
+```python
 boxes = [10, 5, 20, 25, 30, 40, 60, 70, 90, 100, 386]
 
 total_volume = 186
